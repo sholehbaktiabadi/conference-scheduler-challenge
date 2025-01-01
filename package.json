@@ -1,0 +1,16 @@
+{
+    "name": "conference-scheduler-challenge",
+    "version": "1.0.0",
+    "description": "Backend coding challenge for conference schedule optimization",
+    "main": "src/scheduler.js",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watch"
+    },
+    "dependencies": {
+        "moment": "^2.29.4"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
